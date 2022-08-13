@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Semana3_Proyecto_Usando_Estructuras_De_Control_En_Consola
 {
-    class Ejemplo_Do_Whilecs
+    class Ejemplo_Do_While
     {
     }
 }
