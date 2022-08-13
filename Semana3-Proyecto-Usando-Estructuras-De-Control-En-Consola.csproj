@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Ejemplo For.cs" />
     <Compile Include="Ejemplo If.cs" />
+    <Compile Include="Ejemplo Switch.cs" />
+    <Compile Include="Ejemplo While.cs" />
     <Compile Include="Menú interno.cs" />
     <Compile Include="Principal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
