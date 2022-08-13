@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Semana3_Proyecto_Usando_Estructuras_De_Control_En_Consola
 {
-    class Program
+    class Principal
     {
         static void Main(string[] args)
         {
